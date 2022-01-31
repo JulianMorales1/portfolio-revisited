@@ -1,1 +1,30 @@
+h1 {
+    border: 0px;
+    display:flex;
+    justify-content: left;
+    background-color: rgb(145, 206, 221);
+    text-size-adjust: 25;
+    font-family: sans-serif;
+}
 
+h4 {
+    border: 0px;
+    display: flex;
+    justify-content: flex-end;
+    text-size-adjust: 10;
+    color: rgb(0, 195, 255);
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+div {
+    background-image:url(https://images.unsplash.com/photo-1560717789-0ac7c58ac90a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZGFpc3l8ZW58MHx8MHx8&w=1000&q=80);
+}
+
+.Ginger {
+    display: block ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 50%;
+}
